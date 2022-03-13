@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 chromedriver
+chromedriver_mac64_m1.zip
